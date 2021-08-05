@@ -7,11 +7,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         buenas buenas
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.youtube.com/watch?v=Gm3YR17NUY8&list=RDGm3YR17NUY8&start_radio=1"
+
           target="_blank"
           rel="noopener noreferrer"
         >
